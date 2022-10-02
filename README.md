@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Kumapawa
+- 👀 I’m interested in Machine Learning and Artificial Intelligence
+- 🌱 I’m currently learning python

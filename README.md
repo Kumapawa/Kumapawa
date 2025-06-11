@@ -1,3 +1,3 @@
  - Hey, I’m @Kumapawa
- - I’m interested in Machine Learning and Artificial Intelligence
- - I've got a master's degree in Data Science
+ - I’m interested in Artificial Intelligence and building weird apps
+ - I have a Master's in Data Science
